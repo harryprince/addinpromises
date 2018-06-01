@@ -1,8 +1,19 @@
-# Installation
+
+# How to Use
+
+1. Install:
 
 ```{r}
 devtools::install_github("harryprince/addinpromises")
 ```
+
+2. Add shortcut
+
+![](https://github.com/harryprince/addinpromises/blob/master/inst/img/addin_in_rstudio.png)
+
+Currently, setup shortcut as `CMD` + `shift` + `B`.
+
+3. Insert code
 
 # addinpromises
 
