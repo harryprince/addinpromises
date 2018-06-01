@@ -1,3 +1,9 @@
+# Installation
+
+```{r}
+devtools::install_github("harryprince/addinpromises")
+```
+
 # addinpromises
 
 Based on R pakcage `promises`, you can easily convert a sync R code block to async. Here is the example:
