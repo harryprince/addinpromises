@@ -1,0 +1,10 @@
+Package: addinpromises
+Type: Package
+Title: Enhance Promises Coding Experience
+Version: 0.1.0
+Author: Harry Zhu
+Maintainer: Harry Zhu <7harryprince@gmail.com>
+Description: enhance promises coding experience in RStudio
+License: GPL
+Encoding: UTF-8
+LazyData: true
