@@ -19,6 +19,13 @@ Currently, setup shortcut as `CMD` + `shift` + `B`.
 
 Based on R pakcage `promises`, you can easily convert a sync R code block to async. Here is the example:
 
+dependecies:
+
+```{r}
+library(future)
+library(promises)
+```
+
 The original sync code:
 
 ```{r}
