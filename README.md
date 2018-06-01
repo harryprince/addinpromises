@@ -43,4 +43,4 @@ future(spark_df) %...>%
     collect() %...>% # Now you are free
     View()
 ```
-After you claim your pipeline asynchronised, now you can do another meaningful job instead of waiting spark collection data or anyother time-consuming computing.
+After you claim your pipeline asynchronised, now you can do another meaningful job instead of waiting spark collection data or another time-consuming computing.
